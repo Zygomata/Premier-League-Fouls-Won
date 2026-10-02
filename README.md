@@ -18,6 +18,7 @@ The final model was an unweighted Random Forest classifier, selected because it 
 ### 1. Load and Inspect the Data
 
 The project begins by loading raw football event data and inspecting its overall structure.
+Key point to note was that on Github, the epl_event_data is too large of a file to upload onto the platform (exeeds 25mb), so a 1/28th size file was uploaded of the data. However, the whole dataset was used for the training of the model.
 
 Initial exploration focused on:
 
